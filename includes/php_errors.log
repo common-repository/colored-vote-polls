@@ -1,0 +1,16 @@
+[22-Jan-2016 19:15:41 UTC] PHP Notice:  Undefined index: addq in C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php on line 18
+[22-Jan-2016 19:15:41 UTC] PHP Stack trace:
+[22-Jan-2016 19:15:41 UTC] PHP   1. {main}() C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php:0
+[22-Jan-2016 19:15:42 UTC] PHP Notice:  Undefined index: aid in C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\shortcodes.php on line 243
+[22-Jan-2016 19:15:42 UTC] PHP Stack trace:
+[22-Jan-2016 19:15:42 UTC] PHP   1. {main}() C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php:0
+[22-Jan-2016 19:15:42 UTC] PHP   2. wpcvp_display_poll_results() C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php:137
+[22-Jan-2016 19:15:42 UTC] PHP Notice:  Undefined index: rid in C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php on line 149
+[22-Jan-2016 19:15:42 UTC] PHP Stack trace:
+[22-Jan-2016 19:15:42 UTC] PHP   1. {main}() C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php:0
+[22-Jan-2016 19:15:42 UTC] PHP Notice:  Undefined index: raddq in C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php on line 160
+[22-Jan-2016 19:15:42 UTC] PHP Stack trace:
+[22-Jan-2016 19:15:42 UTC] PHP   1. {main}() C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php:0
+[22-Jan-2016 19:15:42 UTC] PHP Notice:  Undefined index: vid in C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php on line 180
+[22-Jan-2016 19:15:42 UTC] PHP Stack trace:
+[22-Jan-2016 19:15:42 UTC] PHP   1. {main}() C:\wamp\www\4dot4\wp-content\plugins\colored-vote-polls\includes\front.php:0
